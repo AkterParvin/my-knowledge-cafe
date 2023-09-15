@@ -16,10 +16,14 @@ function App() {
 
   // function to handle time calculation 
   const [timer, setTimer] = useState(0);
-  const handleAddTime = time => {
+
+  const handleAddTime = (time,id) => {
     console.log('timing coming soon');
     const newTime = timer + time;
     setTimer(newTime);
+    // remove the blog when it is done to be read 
+    const remaining = bookmarks.filter(i => i.id !== id);
+    setBookmarks(remaining);
   }
 
   return (
