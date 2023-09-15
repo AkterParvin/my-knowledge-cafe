@@ -1,102 +1,97 @@
+
+
 [
-  { 
-    "id": 1,
-    "cover": "https://i.ibb.co/92ZVc9Z/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
-    "title": "The Secret of Imaginary Realms",
-    "author": "Alicia Johnson",
-    "author_img": "https://example.com/author1.jpg",
-    "posted-date": "2023-09-14",
-    "reading-time": 120,
-    "hashtags": ["fantasy", "adventure", "magic"]
-  },
-  {
-    "id": 2,
-    "cover": "https://i.ibb.co/89mZqdn/aron-visuals-4zx-SWESy-Zio-unsplash.jpg",
-    "title": "Mystery at Moonlight Manor",
-    "author": "David Smith",
-    "author_img": "https://example.com/author2.jpg",
-    "posted-date": "2023-09-13",
-    "reading-time": 90,
-    "hashtags": ["mystery", "suspense", "detective"]
-  },
-  {
-    "id": 3,
-    "cover": "https://i.ibb.co/hRvPDnW/yeshi-kangrang-P-2-Cxt-Qv-UQY-unsplash.jpg",
-    "title": "Lost in Time",
-    "author": "Emily White",
-    "author_img": "https://example.com/author3.jpg",
-    "posted-date": "2023-09-12",
-    "reading-time": 180,
-    "hashtags": ["sciencefiction", "timetravel", "adventure"]
-  },
-  {
-    "id": 4,
-    "cover": "https://i.ibb.co/S6KKxSR/brooke-lark-GTMGG-xvxd-U-unsplash.jpg",
-    "title": "A Culinary Journey",
-    "author": "Michael Brown",
-    "author_img": "https://example.com/author4.jpg",
-    "posted-date": "2023-09-11",
-    "reading-time": 45,
-    "hashtags": ["cooking", "foodie", "travel"]
-  },
-  {
-    "id": 5,
-    "cover": "https://i.ibb.co/hM6WTmx/averie-woodard-Av-Nir-Igu-Ec-unsplash.jpg",
-    "title": "The Art of Zen",
-    "author": "Sophia Lee",
-    "author_img": "https://example.com/author5.jpg",
-    "posted-date": "2023-09-10",
-    "reading-time": 60,
-    "hashtags": ["philosophy", "mindfulness", "meditation"]
-  },
-  {
-    "id": 6,
-    "cover": "https://i.ibb.co/KyTR86g/jake-blucker-t-Mz-Cr-Bk-M99-Y-unsplash.jpg",
-    "title": "In Search of Atlantis",
-    "author": "Daniel Clark",
-    "author_img": "https://example.com/author6.jpg",
-    "posted-date": "2023-09-09",
-    "reading-time": 150,
-    "hashtags": ["history", "adventure", "mythology"]
-  },
-  {
-    "id": 7,
-    "cover": "https://i.ibb.co/zh3Xs7M/edu-lauton-Ty-Q-0l-Pp6e4-unsplash.jpg",
-    "title": "The Quantum Paradox",
-    "author": "Olivia Davis",
-    "author_img": "https://example.com/author7.jpg",
-    "posted-date": "2023-09-08",
-    "reading-time": 105,
-    "hashtags": ["science", "physics", "paradox"]
-  },
-  {
-    "id": 8,
-    "cover": "https://i.ibb.co/X2m5N3y/johannes-plenio-DKix6-Un55mw-unsplash.jpg",
-    "title": "Sailing the Seven Seas",
-    "author": "James Miller",
-    "author_img": "https://example.com/author8.jpg",
-    "posted-date": "2023-09-07",
-    "reading-time": 75,
-    "hashtags": ["adventure", "sailing", "travel"]
-  },
-  {
-    "id": 9,
-    "cover": "https://i.ibb.co/L6THLH0/johannes-plenio-hvrp-Omu-Mr-AI-unsplash.jpg",
-    "title": "The Enchanted Forest",
-    "author": "Sophie Wilson",
-    "author_img": "https://example.com/author9.jpg",
-    "posted-date": "2023-09-06",
-    "reading-time": 90,
-    "hashtags": ["fantasy", "nature", "magic"]
-  },
-  {
-    "id": 10,
-    "cover": "https://i.ibb.co/0nQfC2j/daniel-jensen-NMk1-Vggt2hg-unsplash.jpg",
-    "title": "The Haunting of Willow House",
-    "author": "William Johnson",
-    "author_img": "https://example.com/author10.jpg",
-    "posted-date": "2023-09-05",
-    "reading-time": 120,
-    "hashtags": ["horror", "hauntedhouse", "supernatural"]
-  }
-]
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    }, 
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    }  
+  ]
